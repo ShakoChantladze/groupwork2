@@ -70,3 +70,22 @@ body {
     display: flex;
     justify-content: center;
   }
+  .second-section{
+    max-width: 1170px;
+    display: flex;
+    justify-content: center;
+    column-gap: 130px;
+    margin-top: 225px;
+    margin-left:135px;
+  }
+  .white-blank{
+    width: 470px;
+    height: 624px;
+    background-color: white; 
+  }
+  .call{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+ 
