@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'first-font';
+    src: url(./fonts/Oswald-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'second-font';
+    src: url(./fonts/Ultra-Regular.ttf);
+}
+@font-face {
+    font-family: 'third-font';
+    src: url(./fonts/DMSans-VariableFont_opsz\,wght.ttf);
+}
