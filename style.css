@@ -75,3 +75,14 @@ body {
     height: 624px;
     background-color: white;
   }
+  .second-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+  }
+  .location-icon img{
+    background-color: black;
+  }
+  .phone-icon img{
+    background-color: black;
+  }
