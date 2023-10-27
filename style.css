@@ -80,9 +80,29 @@ body {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     align-items: center;
   }
-  .location-icon img{
+  .location-icon {
     background-color: black;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+
+  }
+  .location-icon img{
+    width: 16px;
+    height: 24px;
+    margin-left: 15px;
+    margin-top: 10px;
+  }
+  .phone-icon{
+    background-color: black;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+
   }
   .phone-icon img{
-    background-color: black;
+    width: 16px;
+    height: 24px;
+    margin-left: 15px;
+    margin-top: 12px;
   }
