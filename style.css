@@ -126,4 +126,6 @@ body {
     width: 170px;
     height:48px;
     margin-left: 835px;
+    background-color: none;
+    border-color: 1px solid black;
   }
