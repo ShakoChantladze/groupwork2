@@ -74,12 +74,20 @@ body {
     width: 470px;
     height: 624px;
     background-color: white;
-    margin-left: 135px;
+    margin-left: 420px;
+    position: relative;
+  }
+  .adress{
+    margin-left: -150px;
+  }
+  .phone-number{
+    margin-left: -150px;
   }
   .second-section{
     display: grid;
     grid-template-columns: 1fr 1fr ;
     align-items: center;
+    position: relative;
   }
 
   .location-icon {
@@ -113,4 +121,9 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     align-items: center;
+  }
+  .button{
+    width: 170px;
+    height:48px;
+    margin-left: 835px;
   }
