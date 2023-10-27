@@ -70,4 +70,8 @@ body {
     display: flex;
     justify-content: center;
   }
-  
+  .white{
+    width: 470px;
+    height: 624px;
+    background-color: white;
+  }
