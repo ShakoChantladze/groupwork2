@@ -1,6 +1,11 @@
 body {
-    background-color: #f8d4ac;
-  }
+  background-color: #f8d4ac;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
   .fist-container {
     height: 400px;
     display: flex;
@@ -106,16 +111,16 @@ body {
     margin-left: 15px;
     margin-top: 12px;
   }
+
   
   footer {
-    background-color: #000000; 
+    background-color: #000000;
+    color: white;
     padding: 20px;
-    text-align: start;
-    position: absolute;
-    width: 100%;
-    overflow: hidden;
-    top: 0;
-    left: 0;
+    text-align: center;
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    align-items: center; /* Center content horizontally */
 }
 .logo_footer{
     color: white;
